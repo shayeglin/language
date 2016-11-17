@@ -1,6 +1,6 @@
 {
   "name": "Language",
-  "tagline": "A PhP Scripting Language That Can Deal With The Numbers Languages (English - Persian - Arabic) benefit.",
-  "body": "# language\r\nA PhP Scripting Language That Can Deal With The Numbers Languages (English - Persian - Arabic) benefit.\r\n\r\n***\r\n\r\nFor Developers :\r\nRead Language.php Function's To Work\r\n\r\n***\r\n`ToFa( Number , Type)`\r\n\r\n***\r\n`ToEn( Number , Type)`\r\n***\r\n`ToAb( Number , Type)`",
+  "tagline": "A Php Scripting Language That Can Deal With The Numbers Languages (English - Persian - Arabic) benefit.",
+  "body": "# language\r\nA Php Scripting Language That Can Deal With The Numbers Languages (English - Persian - Arabic) benefit.\r\n\r\n***\r\n\r\nFor Developers :\r\nRead Language.php Function's To Work\r\n\r\n***\r\n`ToFa( Number , Type)`\r\n\r\n***\r\n`ToEn( Number , Type)`\r\n***\r\n`ToAb( Number , Type)`",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
